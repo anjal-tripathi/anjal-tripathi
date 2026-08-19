@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is - Anjal Tripathi
 
 <!--
 **anjal-tripathi/anjal-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
